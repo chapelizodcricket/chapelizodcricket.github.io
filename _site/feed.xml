@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapelizod Cricket Club</title>
+    <description>Welcome to the home of Chapelizod Cricket Club</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 03 Feb 2018 15:23:06 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Feb 2018 15:23:06 +0000</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      
+      <item>
+        <title>2017 Season Awards 🏆</title>
+        <description>&lt;p&gt;Our final event of 2017 was the Awards night held upstairs in the Villager, Chapelizod. All in all we played 18 matches: 9 victories, 8 losses and a draw. The enthusiasm in our first full season was fantastic from the players, friends and locals.&lt;/p&gt;
+
+&lt;p&gt;We will continue this tradition bigger and better in 2018 and hope to see you there!&lt;/p&gt;
+
+&lt;h4 class=&quot;center-text&quot;&gt;The winners from 2017 are as follows:&lt;/h4&gt;
+
+&lt;h3 class=&quot;award-title&quot;&gt;Catch of the year&lt;/h3&gt;
+&lt;p&gt;Mahesh&lt;/p&gt;
+&lt;h3 class=&quot;award-title&quot;&gt;Bowler of the year&lt;/h3&gt;
+&lt;p&gt;Renato De Silva&lt;/p&gt;
+&lt;h3 class=&quot;award-title&quot;&gt;Newcomer of the year&lt;/h3&gt;
+&lt;p&gt;Colm Massey&lt;/p&gt;
+&lt;h3 class=&quot;award-title&quot;&gt;Batsman of the year&lt;/h3&gt;
+&lt;p&gt;Hariprasad Govindarajan &lt;/p&gt;
+&lt;h3 class=&quot;award-title&quot;&gt;Player of the year&lt;/h3&gt;
+&lt;p&gt;Greg Murray&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/one.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;Photograph by - David Carey&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/four.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;Photograph by - David Carey&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/five.jpg&quot; alt=&quot;&quot; /&gt; 
+	&lt;figcaption&gt;Photograph by - David Carey&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+</description>
+        
+          <description>&lt;p&gt;Our final event of 2017 was the Awards night held upstairs in the Villager, Chapelizod. All in all we played 18 matches: 9 victories, 8 losses and a draw. The enthusiasm in our first full season was fantastic from the players, friends and locals.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/12/15/2017-Awards-Night.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/15/2017-Awards-Night.html</guid>
+        
+        
+      </item>
+      
+    
+  </channel>
+</rss>
